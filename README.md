@@ -35,12 +35,11 @@ yarn test
 
 ## Submission
 
-1. Fork this repository
+1. Clone this repository
 
-2. Solve task laid out by the tests. Commit and publish code.
+2. Solve task laid out by the tests. Commit and zip the task files.
 
-3. Add persons laid out in the task e-mail as members to your repository. Do not make your
-repository public.
+3. Submit your task according to the instructions sent to you via e-mail.
 
 ## Evaluation
 
